@@ -1,1 +1,1 @@
-# PCG
+# Proyecto Computacional Guiado
