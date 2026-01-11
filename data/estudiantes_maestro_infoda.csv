@@ -1,0 +1,4 @@
+matricula,apellidos_nombres,codigo_carrera,nombre_carrera,codigo_seccion,nombre_asignatura,archivo_origen
+20240001,Perez Soto Juan,10,Ingeniería Civil,503203-3,Programación,ListaClases-503203-3.csv
+20240002,Gonzalez Rojas Maria,10,Ingeniería Civil,503203-3,Programación,ListaClases-503203-3.csv
+20240003,Ramirez Diaz Pedro,10,Ingeniería Civil,503203-4,Programación,ListaClases-503203-4.csv
